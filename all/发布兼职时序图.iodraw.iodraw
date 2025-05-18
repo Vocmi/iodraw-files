@@ -196,6 +196,9 @@
             <mxPoint x="-28" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nqKkDKsrE_hgheaYfvqb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285.75" y="631" width="31.5" height="254" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
