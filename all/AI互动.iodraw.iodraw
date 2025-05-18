@@ -182,11 +182,11 @@
         </mxCell>
         <mxCell id="_97GkPCuqvEu6c6-lGJ0-43" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.003;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="295.75" y="682" as="sourcePoint" />
-            <mxPoint x="79.75" y="682" as="targetPoint" />
+            <mxPoint x="285.25" y="584" as="sourcePoint" />
+            <mxPoint x="69.25" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_97GkPCuqvEu6c6-lGJ0-44" value="显示审核状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="_97GkPCuqvEu6c6-lGJ0-43">
+        <mxCell id="_97GkPCuqvEu6c6-lGJ0-44" value="看到回答结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="_97GkPCuqvEu6c6-lGJ0-43">
           <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
             <mxPoint x="-28" as="offset" />
           </mxGeometry>
