@@ -97,8 +97,8 @@
         </mxCell>
         <mxCell id="18DJdWOpnQmWUEMIstbW-28" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.003;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="296" y="600" as="sourcePoint" />
-            <mxPoint x="80" y="600" as="targetPoint" />
+            <mxPoint x="285.75" y="600" as="sourcePoint" />
+            <mxPoint x="69.75" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="18DJdWOpnQmWUEMIstbW-29" value="订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="18DJdWOpnQmWUEMIstbW-28">
@@ -179,6 +179,20 @@
         <mxCell id="18DJdWOpnQmWUEMIstbW-54" value="&lt;font style=&quot;font-size: 13px&quot;&gt;修改订单状态&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="559.9964354379634" y="707.4995763944617" as="geometry">
             <mxPoint x="-2" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18DJdWOpnQmWUEMIstbW-61" value="返回订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="388.6367748198468" y="577.1052664243969" as="geometry" />
+        </mxCell>
+        <mxCell id="18DJdWOpnQmWUEMIstbW-62" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.003;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295.75" y="610" as="sourcePoint" />
+            <mxPoint x="79.75" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18DJdWOpnQmWUEMIstbW-63" value="订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="18DJdWOpnQmWUEMIstbW-62">
+          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
+            <mxPoint x="-28" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
