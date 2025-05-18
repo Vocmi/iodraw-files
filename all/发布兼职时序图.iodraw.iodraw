@@ -71,17 +71,6 @@
             <mxPoint x="-12.19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBfzKZVUAXPCn-T-2RrH-31" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.975;entryY=0.777;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BBfzKZVUAXPCn-T-2RrH-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="625" y="681" as="sourcePoint" />
-            <mxPoint x="347" y="689" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BBfzKZVUAXPCn-T-2RrH-32" value="结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="BBfzKZVUAXPCn-T-2RrH-31" vertex="1" connectable="0">
-          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
-            <mxPoint x="-26.02" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BBfzKZVUAXPCn-T-2RrH-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="BBfzKZVUAXPCn-T-2RrH-36" target="BBfzKZVUAXPCn-T-2RrH-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
