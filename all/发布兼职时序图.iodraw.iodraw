@@ -191,7 +191,7 @@
             <mxPoint x="69.75" y="574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqKkDKsrE_hgheaYfvqb-22" value="结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="nqKkDKsrE_hgheaYfvqb-21">
+        <mxCell id="nqKkDKsrE_hgheaYfvqb-22" value="进入倒计时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="nqKkDKsrE_hgheaYfvqb-21">
           <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
             <mxPoint x="-28" as="offset" />
           </mxGeometry>
