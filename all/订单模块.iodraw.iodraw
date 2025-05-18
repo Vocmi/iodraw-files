@@ -110,9 +110,9 @@
             <mxPoint x="445.25" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET3lXFpCePKVtYDSXv14-36" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;创建订单请求&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-35">
+        <mxCell id="ET3lXFpCePKVtYDSXv14-36" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;发起支付请求&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-35">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
-            <mxPoint x="6.59" y="-1.1" as="offset" />
+            <mxPoint x="43" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
