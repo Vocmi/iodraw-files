@@ -122,9 +122,12 @@
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="560" as="sourcePoint" />
+            <mxPoint x="284" y="580" as="sourcePoint" />
             <mxPoint x="70" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ET3lXFpCePKVtYDSXv14-31" value="&lt;span style=&quot;font-size: 13px&quot;&gt;选择收货地址/优惠券&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="181.8233240896975" y="550.0960325045147" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
