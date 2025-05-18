@@ -137,11 +137,11 @@
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-42" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="328.1869999999999" y="487.27700000000004" as="sourcePoint" />
-            <mxPoint x="456" y="487" as="targetPoint" />
+            <mxPoint x="317.2469999999999" y="769.9370000000001" as="sourcePoint" />
+            <mxPoint x="445.06" y="769.6600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET3lXFpCePKVtYDSXv14-43" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;创建订单请求&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-42">
+        <mxCell id="ET3lXFpCePKVtYDSXv14-43" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;通知支付结果&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-42">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="6.59" y="-1.1" as="offset" />
           </mxGeometry>
