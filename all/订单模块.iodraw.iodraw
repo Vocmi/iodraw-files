@@ -86,13 +86,13 @@
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-20" value="返回更新状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-19">
           <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
-            <mxPoint x="-7" as="offset" />
+            <mxPoint x="-7" y="-56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-21" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="71.54" y="670" as="sourcePoint" />
-            <mxPoint x="285.75000000000006" y="670.2500000000002" as="targetPoint" />
+            <mxPoint x="71.29" y="614" as="sourcePoint" />
+            <mxPoint x="285.50000000000006" y="614.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-22" value="&lt;span style=&quot;font-size: 13px&quot;&gt;批量选择商品结算&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-21">
