@@ -121,12 +121,12 @@
           <mxGeometry x="613.25" y="560" width="31.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="18DJdWOpnQmWUEMIstbW-42" value="&lt;font style=&quot;font-size: 13px&quot;&gt;创建新的订单&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="549.9964354379634" y="499.9995763944617" as="geometry">
+          <mxGeometry x="559.9964354379634" y="509.9995763944617" as="geometry">
             <mxPoint x="-2" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="18DJdWOpnQmWUEMIstbW-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;发送订单请求&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="394.34643543796346" y="498.0695763944617" as="geometry" />
+          <mxGeometry x="559.9964354379634" y="529.9995763944617" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
