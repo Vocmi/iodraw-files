@@ -247,7 +247,7 @@
         <mxCell id="KjCFYvm0RFGssR2icvi7-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="700" width="70" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="KjCFYvm0RFGssR2icvi7-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;短信登录或注册&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KjCFYvm0RFGssR2icvi7-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;内容数据统计&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1412.5" y="720" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-79" value="" style="endArrow=none;html=1;" edge="1" parent="1">
