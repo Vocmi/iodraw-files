@@ -223,7 +223,7 @@
         <mxCell id="0mq37DdRftNiFlX6dHEB-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="370" width="70" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="0mq37DdRftNiFlX6dHEB-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;商品评价&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0mq37DdRftNiFlX6dHEB-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;购物车模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1092.5" y="390" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0mq37DdRftNiFlX6dHEB-45" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -247,7 +247,7 @@
         <mxCell id="0mq37DdRftNiFlX6dHEB-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="700" width="70" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="0mq37DdRftNiFlX6dHEB-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;评分或图文评价&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0mq37DdRftNiFlX6dHEB-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;增删改购物车商品&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1032.5" y="720" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0mq37DdRftNiFlX6dHEB-50" value="" style="endArrow=none;html=1;" edge="1" parent="1">
