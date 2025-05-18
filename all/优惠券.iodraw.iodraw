@@ -78,7 +78,7 @@
             <mxPoint x="304.21000000000004" y="464.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTyeqopArUpIJNChYZiy-19" value="&lt;span style=&quot;font-size: 13px&quot;&gt;对商品进行评价&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xTyeqopArUpIJNChYZiy-18">
+        <mxCell id="xTyeqopArUpIJNChYZiy-19" value="&lt;span style=&quot;font-size: 13px&quot;&gt;领取优惠券&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xTyeqopArUpIJNChYZiy-18">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
