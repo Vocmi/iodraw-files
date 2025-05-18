@@ -220,15 +220,10 @@
         <mxCell id="PrDnThKkt1VXkfsMURmL-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810.99" y="479" width="31.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-56" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PrDnThKkt1VXkfsMURmL-13">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.007;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PrDnThKkt1VXkfsMURmL-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="540" as="sourcePoint" />
-            <mxPoint x="476.7500000000002" y="538.6650000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-57" value="显示回答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-56">
-          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
-            <mxPoint x="-12.19" as="offset" />
+            <mxPoint x="660" y="600" as="sourcePoint" />
+            <mxPoint x="710" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
