@@ -120,51 +120,51 @@
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-49" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100" y="370" as="sourcePoint" />
-            <mxPoint x="1100" y="290" as="targetPoint" />
+            <mxPoint x="935.5" y="370" as="sourcePoint" />
+            <mxPoint x="935.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="370" width="70" height="210" as="geometry" />
+          <mxGeometry x="905.5" y="370" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-51" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;购物车模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1092.5" y="390" width="25" height="170" as="geometry" />
+          <mxGeometry x="928" y="390" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-52" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100" y="620" as="sourcePoint" />
-            <mxPoint x="1100" y="580" as="targetPoint" />
+            <mxPoint x="935.5" y="620" as="sourcePoint" />
+            <mxPoint x="935.5" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-53" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="620" as="sourcePoint" />
-            <mxPoint x="1160" y="620" as="targetPoint" />
+            <mxPoint x="875.5" y="620" as="sourcePoint" />
+            <mxPoint x="995.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-54" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="700" as="sourcePoint" />
-            <mxPoint x="1040" y="620" as="targetPoint" />
+            <mxPoint x="875.5" y="700" as="sourcePoint" />
+            <mxPoint x="875.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="700" width="70" height="210" as="geometry" />
+          <mxGeometry x="845.5" y="700" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;增删改购物车商品&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1032.5" y="720" width="25" height="170" as="geometry" />
+          <mxGeometry x="868" y="720" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-57" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="700" as="sourcePoint" />
-            <mxPoint x="1160" y="620" as="targetPoint" />
+            <mxPoint x="995.5" y="700" as="sourcePoint" />
+            <mxPoint x="995.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="700" width="70" height="210" as="geometry" />
+          <mxGeometry x="965.5" y="700" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-59" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结算商品&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1152.5" y="720" width="25" height="170" as="geometry" />
+          <mxGeometry x="988" y="720" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-60" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
