@@ -193,8 +193,8 @@
         </mxCell>
         <mxCell id="_97GkPCuqvEu6c6-lGJ0-45" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="454" as="sourcePoint" />
-            <mxPoint x="294.21000000000004" y="454.2500000000002" as="targetPoint" />
+            <mxPoint x="71.54" y="640" as="sourcePoint" />
+            <mxPoint x="285.75000000000006" y="640.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_97GkPCuqvEu6c6-lGJ0-46" value="&lt;span style=&quot;font-size: 13px&quot;&gt;输入菜品制作问题&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_97GkPCuqvEu6c6-lGJ0-45">
