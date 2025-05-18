@@ -97,10 +97,10 @@
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-24" value="" style="endArrow=classic;html=1;entryX=0.017;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PrDnThKkt1VXkfsMURmL-38">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="479" y="500" as="sourcePoint" />
-            <mxPoint x="811" y="503" as="targetPoint" />
+            <mxPoint x="810" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-25" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;存储待审核数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-24">
@@ -234,6 +234,17 @@
         <mxCell id="PrDnThKkt1VXkfsMURmL-65" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;查询申请数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-64">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="34" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-66" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.913;entryY=0.706;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820.99" y="723" as="sourcePoint" />
+            <mxPoint x="486.74949999999967" y="724.262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-67" value="返回商品数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-66">
+          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
+            <mxPoint x="-35" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
