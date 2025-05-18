@@ -103,7 +103,7 @@
             <mxPoint x="811" y="503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-25" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;请求AI处理&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-24">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-25" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;存储待审核数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-24">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="13" y="-2" as="offset" />
           </mxGeometry>
@@ -229,7 +229,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810.99" y="485.5" width="31.5" height="72" as="geometry" />
+          <mxGeometry x="810.99" y="470" width="31.5" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
