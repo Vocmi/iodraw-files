@@ -89,10 +89,10 @@
             <mxPoint x="6.59" y="-1.1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBknIbUvewJHwfieLhLY-51" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.003;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="eBknIbUvewJHwfieLhLY-51" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="770" as="sourcePoint" />
-            <mxPoint x="79.75" y="770" as="targetPoint" />
+            <mxPoint x="445.25" y="640" as="sourcePoint" />
+            <mxPoint x="320" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eBknIbUvewJHwfieLhLY-52" value="发送通知消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="eBknIbUvewJHwfieLhLY-51">
