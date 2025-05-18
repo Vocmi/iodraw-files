@@ -115,6 +115,17 @@
             <mxPoint x="43" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ET3lXFpCePKVtYDSXv14-37" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442.5" y="710" as="sourcePoint" />
+            <mxPoint x="317.25" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ET3lXFpCePKVtYDSXv14-38" value="返回更新状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-37">
+          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
