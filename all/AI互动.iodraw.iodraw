@@ -202,6 +202,17 @@
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_97GkPCuqvEu6c6-lGJ0-47" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317.2469999999999" y="660.277" as="sourcePoint" />
+            <mxPoint x="445.06" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_97GkPCuqvEu6c6-lGJ0-48" value="&lt;font style=&quot;font-size: 13px&quot;&gt;发送问题文本&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_97GkPCuqvEu6c6-lGJ0-47">
+          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
+            <mxPoint x="6.59" y="-1.1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
