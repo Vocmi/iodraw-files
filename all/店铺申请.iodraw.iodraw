@@ -231,6 +231,9 @@
             <mxPoint x="560" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-78" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;查询申请数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650.9756295458624" y="590.7710340577567" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
