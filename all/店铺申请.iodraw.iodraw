@@ -97,7 +97,7 @@
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-24" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PrDnThKkt1VXkfsMURmL-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="479" y="500" as="sourcePoint" />
             <mxPoint x="811" y="503" as="targetPoint" />
@@ -219,17 +219,6 @@
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810.99" y="479" width="31.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-54" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489" y="510" as="sourcePoint" />
-            <mxPoint x="821" y="513" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-55" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;存储待审核数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-54">
-          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
-            <mxPoint x="34" y="-2" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
