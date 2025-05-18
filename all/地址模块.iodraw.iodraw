@@ -69,8 +69,8 @@
         </mxCell>
         <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-19" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445.25" y="640" as="sourcePoint" />
-            <mxPoint x="320" y="640" as="targetPoint" />
+            <mxPoint x="442.5" y="520" as="sourcePoint" />
+            <mxPoint x="317.25" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-20" value="返回更新状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ZhZ4NN9cGDv9-uR-6IXl-19">
