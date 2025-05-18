@@ -58,7 +58,7 @@
         <mxCell id="SR630DbwWwy7cONbpMix-33" value="静态化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="275" width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="SR630DbwWwy7cONbpMix-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SR630DbwWwy7cONbpMix-34" value="数据缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="442" y="275" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="SR630DbwWwy7cONbpMix-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
