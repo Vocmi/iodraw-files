@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SR630DbwWwy7cONbpMix-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基于SpringBoot的美食购物分享圈的系统架构图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="41" width="641" height="60" as="geometry" />
+          <mxGeometry x="106" y="41" width="814" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SR630DbwWwy7cONbpMix-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;前端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="116" width="120" height="60" as="geometry" />
