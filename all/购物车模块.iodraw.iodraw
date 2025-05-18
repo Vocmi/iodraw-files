@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="a2IGGyQP-0QIiolo_dVF">
-    <mxGraphModel dx="1422" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,9 +95,20 @@
             <mxPoint x="320" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBknIbUvewJHwfieLhLY-52" value="发送通知消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="eBknIbUvewJHwfieLhLY-51">
+        <mxCell id="eBknIbUvewJHwfieLhLY-52" value="返回更新状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="eBknIbUvewJHwfieLhLY-51">
           <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
             <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBknIbUvewJHwfieLhLY-53" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81.54" y="550" as="sourcePoint" />
+            <mxPoint x="295.75000000000006" y="550.2500000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBknIbUvewJHwfieLhLY-54" value="&lt;span style=&quot;font-size: 13px&quot;&gt;修改购物车商品数量/删除商品&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eBknIbUvewJHwfieLhLY-53">
+          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
