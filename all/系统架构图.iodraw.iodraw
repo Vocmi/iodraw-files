@@ -50,7 +50,7 @@
           <mxGeometry x="848" y="188" width="72" height="289" as="geometry" />
         </mxCell>
         <mxCell id="SR630DbwWwy7cONbpMix-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="262" width="520" height="111" as="geometry" />
+          <mxGeometry x="234" y="262" width="520" height="133" as="geometry" />
         </mxCell>
         <mxCell id="SR630DbwWwy7cONbpMix-32" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;日&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;志&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;记&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;录&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="761" y="260" width="72" height="289" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="588" y="277" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="SR630DbwWwy7cONbpMix-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="327" width="120" height="44" as="geometry" />
+          <mxGeometry x="252" y="340" width="120" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
