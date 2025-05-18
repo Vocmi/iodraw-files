@@ -254,11 +254,6 @@
             <mxPoint x="34" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-84" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;获取待审核列表&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="623.7504943980995" y="768.000044041045" as="geometry">
-            <mxPoint x="-66" y="18" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-86" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PrDnThKkt1VXkfsMURmL-38" target="PrDnThKkt1VXkfsMURmL-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="827" y="670" as="sourcePoint" />
