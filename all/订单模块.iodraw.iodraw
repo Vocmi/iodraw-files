@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445.25" y="730" width="31.5" height="80" as="geometry" />
+          <mxGeometry x="445.25" y="730" width="31.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-42" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -144,6 +144,17 @@
         <mxCell id="ET3lXFpCePKVtYDSXv14-43" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;通知支付结果&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-42">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="6.59" y="-1.1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ET3lXFpCePKVtYDSXv14-44" value="" style="endArrow=classic;html=1;dashed=1;exitX=0.043;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="631" y="720" as="sourcePoint" />
+            <mxPoint x="330" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ET3lXFpCePKVtYDSXv14-45" value="返回支付结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-44">
+          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
+            <mxPoint x="-24" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
