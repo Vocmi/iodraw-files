@@ -231,6 +231,17 @@
             <mxPoint x="-66" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-64" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="489" y="510" as="sourcePoint" />
+            <mxPoint x="821" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-65" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;存储待审核数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-64">
+          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
+            <mxPoint x="34" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
