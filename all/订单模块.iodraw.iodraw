@@ -51,7 +51,7 @@
             <mxPoint x="284.21000000000004" y="444.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET3lXFpCePKVtYDSXv14-14" value="&lt;span style=&quot;font-size: 13px&quot;&gt;添加商品到购物车&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-13">
+        <mxCell id="ET3lXFpCePKVtYDSXv14-14" value="&lt;span style=&quot;font-size: 13px&quot;&gt;从购物车创建订单&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-13">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
