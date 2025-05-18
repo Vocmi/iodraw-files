@@ -131,6 +131,17 @@
             <mxPoint x="-8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="18DJdWOpnQmWUEMIstbW-44" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71.53999999999999" y="660" as="sourcePoint" />
+            <mxPoint x="285.75000000000006" y="660.2500000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18DJdWOpnQmWUEMIstbW-45" value="&lt;span style=&quot;font-size: 13px&quot;&gt;商品支付&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="18DJdWOpnQmWUEMIstbW-44">
+          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
