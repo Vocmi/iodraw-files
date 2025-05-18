@@ -240,8 +240,24 @@
             <mxPoint x="476.75" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-81" value="返回申请列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="1">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-81" value="提交审核结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="549.9947679110201" y="709.9955699574704" as="geometry" />
+        </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-82" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="489" y="510" as="sourcePoint" />
+            <mxPoint x="820" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-83" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;存储待审核数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-82">
+          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
+            <mxPoint x="34" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-84" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;获取待审核列表&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="636.0004943980995" y="528.000044041045" as="geometry">
+            <mxPoint x="-66" y="18" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
