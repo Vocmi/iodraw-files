@@ -62,7 +62,7 @@
             <mxPoint x="285.75000000000006" y="560.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-16" value="&lt;span style=&quot;font-size: 13px&quot;&gt;修改购物车商品数量/删除商品&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZhZ4NN9cGDv9-uR-6IXl-15">
+        <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-16" value="&lt;span style=&quot;font-size: 13px&quot;&gt;设置默认地址&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZhZ4NN9cGDv9-uR-6IXl-15">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
