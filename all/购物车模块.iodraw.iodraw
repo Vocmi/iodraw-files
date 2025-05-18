@@ -102,8 +102,8 @@
         </mxCell>
         <mxCell id="eBknIbUvewJHwfieLhLY-53" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="81.54" y="550" as="sourcePoint" />
-            <mxPoint x="295.75000000000006" y="550.2500000000002" as="targetPoint" />
+            <mxPoint x="71.54" y="670" as="sourcePoint" />
+            <mxPoint x="285.75000000000006" y="670.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eBknIbUvewJHwfieLhLY-54" value="&lt;span style=&quot;font-size: 13px&quot;&gt;修改购物车商品数量/删除商品&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eBknIbUvewJHwfieLhLY-53">
