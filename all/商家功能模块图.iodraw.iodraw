@@ -151,7 +151,7 @@
         <mxCell id="YtOLyaKX2NCg9TV9l2Qw-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="710" width="70" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="YtOLyaKX2NCg9TV9l2Qw-137" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;增删改购物车商品&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YtOLyaKX2NCg9TV9l2Qw-137" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;申请店铺&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1042.5" y="730" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="YtOLyaKX2NCg9TV9l2Qw-138" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -163,7 +163,7 @@
         <mxCell id="YtOLyaKX2NCg9TV9l2Qw-139" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="710" width="70" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="YtOLyaKX2NCg9TV9l2Qw-140" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结算商品&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YtOLyaKX2NCg9TV9l2Qw-140" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;修改店铺名称&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1162.5" y="730" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="YtOLyaKX2NCg9TV9l2Qw-141" value="" style="endArrow=none;html=1;" edge="1" parent="1">
