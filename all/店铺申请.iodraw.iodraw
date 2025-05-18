@@ -245,8 +245,8 @@
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-82" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489" y="510" as="sourcePoint" />
-            <mxPoint x="820" y="510" as="targetPoint" />
+            <mxPoint x="476.75" y="750" as="sourcePoint" />
+            <mxPoint x="807.75" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-83" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;存储待审核数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-82">
@@ -255,9 +255,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-84" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;获取待审核列表&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="636.0004943980995" y="528.000044041045" as="geometry">
+          <mxGeometry x="623.7504943980995" y="768.000044041045" as="geometry">
             <mxPoint x="-66" y="18" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="660" width="31.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
