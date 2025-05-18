@@ -43,7 +43,7 @@
         <mxCell id="KjCFYvm0RFGssR2icvi7-31" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="620" as="sourcePoint" />
-            <mxPoint x="469" y="620" as="targetPoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-32" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -264,15 +264,15 @@
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-83" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="386.5" y="700" as="sourcePoint" />
-            <mxPoint x="386.5" y="620" as="targetPoint" />
+            <mxPoint x="409" y="690" as="sourcePoint" />
+            <mxPoint x="409" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356.5" y="700" width="70" height="210" as="geometry" />
+          <mxGeometry x="379" y="690" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;账号封禁&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="379" y="720" width="25" height="170" as="geometry" />
+          <mxGeometry x="401.5" y="710" width="25" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
