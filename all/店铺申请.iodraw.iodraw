@@ -56,14 +56,9 @@
             <mxPoint x="446" y="477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-15" value="&lt;font style=&quot;font-size: 13px&quot;&gt;发送问题文本&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-14">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-15" value="&lt;font style=&quot;font-size: 13px&quot;&gt;发送申请数据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-14">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="6.59" y="-1.1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-14">
-          <mxGeometry x="-0.077" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-16" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
