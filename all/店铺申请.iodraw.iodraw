@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445.25" y="453" width="31.5" height="137" as="geometry" />
+          <mxGeometry x="445.25" y="453" width="31.5" height="307" as="geometry" />
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PrDnThKkt1VXkfsMURmL-13">
           <mxGeometry relative="1" as="geometry">
@@ -158,12 +158,6 @@
         <mxCell id="PrDnThKkt1VXkfsMURmL-46" value="&lt;font style=&quot;font-size: 13px&quot;&gt;发送商品请求&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-45">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="6.59" y="-1.1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-47" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PrDnThKkt1VXkfsMURmL-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461.0000000000002" y="627.5" as="targetPoint" />
-            <mxPoint x="461" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-49" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
