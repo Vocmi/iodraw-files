@@ -226,8 +226,8 @@
             <mxPoint x="710" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-61" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;存储待审核数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="650.5704943980995" y="510.8300440410451" as="geometry">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-61" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;获取待审核列表&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="626.0004943980995" y="518.000044041045" as="geometry">
             <mxPoint x="-66" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
