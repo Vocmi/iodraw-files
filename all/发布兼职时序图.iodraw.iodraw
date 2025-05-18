@@ -33,9 +33,10 @@
         <mxCell id="BBfzKZVUAXPCn-T-2RrH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285.75" y="424" width="31.5" height="331" as="geometry" />
         </mxCell>
-        <mxCell id="BBfzKZVUAXPCn-T-2RrH-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="BBfzKZVUAXPCn-T-2RrH-7" edge="1">
+        <mxCell id="BBfzKZVUAXPCn-T-2RrH-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="462" y="1094" as="targetPoint" />
+            <mxPoint x="462" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BBfzKZVUAXPCn-T-2RrH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -94,17 +95,6 @@
         <mxCell id="BBfzKZVUAXPCn-T-2RrH-42" value="&lt;span style=&quot;font-size: 13px&quot;&gt;输入邮箱点击发送验证码&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BBfzKZVUAXPCn-T-2RrH-41" vertex="1" connectable="0">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BBfzKZVUAXPCn-T-2RrH-43" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.067;entryY=0.128;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="582.64" y="823" as="sourcePoint" />
-            <mxPoint x="370.0005000000002" y="823.624" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BBfzKZVUAXPCn-T-2RrH-44" value="登录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="BBfzKZVUAXPCn-T-2RrH-43" vertex="1" connectable="0">
-          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
-            <mxPoint x="-12.19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BBfzKZVUAXPCn-T-2RrH-45" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.024;exitY=0.275;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
