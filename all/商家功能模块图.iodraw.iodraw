@@ -67,7 +67,7 @@
         <mxCell id="YtOLyaKX2NCg9TV9l2Qw-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="710" width="70" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="YtOLyaKX2NCg9TV9l2Qw-118" value="&lt;font style=&quot;font-size: 18px&quot;&gt;评价列表查看&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YtOLyaKX2NCg9TV9l2Qw-118" value="&lt;font style=&quot;font-size: 18px&quot;&gt;发布操作&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="562.5" y="730" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="YtOLyaKX2NCg9TV9l2Qw-119" value="" style="endArrow=none;html=1;" edge="1" parent="1">
