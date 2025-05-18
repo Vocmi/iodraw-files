@@ -95,10 +95,10 @@
           <mxGeometry x="234" y="544" width="687" height="76" as="geometry" />
         </mxCell>
         <mxCell id="SR630DbwWwy7cONbpMix-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Mysql&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258" y="552" width="225" height="60" as="geometry" />
+          <mxGeometry x="258" y="552" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SR630DbwWwy7cONbpMix-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FILE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="552" width="225" height="60" as="geometry" />
+        <mxCell id="SR630DbwWwy7cONbpMix-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Mysql&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="562" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
