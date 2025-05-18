@@ -122,11 +122,11 @@
         </mxCell>
         <mxCell id="xTyeqopArUpIJNChYZiy-30" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="474" as="sourcePoint" />
-            <mxPoint x="314.21000000000004" y="474.2500000000002" as="targetPoint" />
+            <mxPoint x="89.25" y="623" as="sourcePoint" />
+            <mxPoint x="303.46000000000004" y="623.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTyeqopArUpIJNChYZiy-31" value="&lt;span style=&quot;font-size: 13px&quot;&gt;领取优惠券&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xTyeqopArUpIJNChYZiy-30">
+        <mxCell id="xTyeqopArUpIJNChYZiy-31" value="&lt;span style=&quot;font-size: 13px&quot;&gt;使用优惠券下单&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xTyeqopArUpIJNChYZiy-30">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
