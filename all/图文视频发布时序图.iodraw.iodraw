@@ -33,10 +33,10 @@
         <mxCell id="tfcnqusVnqAIxF6WCi63-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285.75" y="424" width="31.5" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tfcnqusVnqAIxF6WCi63-44">
+        <mxCell id="tfcnqusVnqAIxF6WCi63-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="462" y="1094" as="targetPoint" />
-            <mxPoint x="462" y="630" as="sourcePoint" />
+            <mxPoint x="461" y="826" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tfcnqusVnqAIxF6WCi63-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -97,17 +97,6 @@
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-24" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.024;exitY=0.275;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="71.54599999999986" y="673.055" as="sourcePoint" />
-            <mxPoint x="285.75000000000006" y="673.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-25" value="&lt;span style=&quot;font-size: 13px&quot;&gt;输入验证码&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tfcnqusVnqAIxF6WCi63-24">
-          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
-            <mxPoint x="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tfcnqusVnqAIxF6WCi63-26" value="" style="endArrow=classic;html=1;entryX=0.006;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tfcnqusVnqAIxF6WCi63-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="479" y="500" as="sourcePoint" />
@@ -130,59 +119,10 @@
             <mxPoint x="-12.19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-30" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="317.25" y="698" as="sourcePoint" />
-            <mxPoint x="446" y="698.2500000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-31" value="&lt;font style=&quot;font-size: 13px&quot;&gt;提交验证码&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tfcnqusVnqAIxF6WCi63-30">
-          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
-            <mxPoint x="6.59" y="-1.1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-32" value="" style="endArrow=classic;html=1;exitX=0.965;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="731" as="sourcePoint" />
-            <mxPoint x="634" y="731" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-33" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;验证短信码&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tfcnqusVnqAIxF6WCi63-32">
-          <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
-            <mxPoint x="13" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-34" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.024;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="634" y="771" as="sourcePoint" />
-            <mxPoint x="477.49599999999987" y="769" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-35" value="返回验证结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="tfcnqusVnqAIxF6WCi63-34">
-          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
-            <mxPoint x="-12.19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-36" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.003;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445.25" y="799" as="sourcePoint" />
-            <mxPoint x="317.25" y="799" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-37" value="返回登录/注册结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="tfcnqusVnqAIxF6WCi63-36">
-          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
-            <mxPoint x="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tfcnqusVnqAIxF6WCi63-38" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.003;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="283" y="834" as="sourcePoint" />
             <mxPoint x="67" y="834" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-39" value="结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="tfcnqusVnqAIxF6WCi63-38">
-          <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
-            <mxPoint x="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tfcnqusVnqAIxF6WCi63-40" value="" style="endArrow=classic;html=1;dashed=1;entryX=1.003;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -195,21 +135,6 @@
           <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
             <mxPoint x="-28" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285.75" y="631" width="31.5" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-43" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tfcnqusVnqAIxF6WCi63-11" target="tfcnqusVnqAIxF6WCi63-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="462" y="1094" as="targetPoint" />
-            <mxPoint x="461" y="568" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445.25" y="681" width="31.5" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="tfcnqusVnqAIxF6WCi63-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="715" width="31.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="tfcnqusVnqAIxF6WCi63-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="tfcnqusVnqAIxF6WCi63-47" target="tfcnqusVnqAIxF6WCi63-49">
           <mxGeometry relative="1" as="geometry" />
