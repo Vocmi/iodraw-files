@@ -100,7 +100,7 @@
         <mxCell id="SR630DbwWwy7cONbpMix-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MinIo文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="552" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SR630DbwWwy7cONbpMix-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Mysql&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SR630DbwWwy7cONbpMix-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Qwen&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="697" y="552" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
