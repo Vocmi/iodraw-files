@@ -61,6 +61,11 @@
             <mxPoint x="6.59" y="-1.1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PrDnThKkt1VXkfsMURmL-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-14">
+          <mxGeometry x="-0.077" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PrDnThKkt1VXkfsMURmL-16" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443" y="560" as="sourcePoint" />
@@ -92,7 +97,7 @@
             <mxPoint x="284.21000000000004" y="444.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrDnThKkt1VXkfsMURmL-23" value="&lt;span style=&quot;font-size: 13px&quot;&gt;输入菜品制作问题&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-22">
+        <mxCell id="PrDnThKkt1VXkfsMURmL-23" value="&lt;span style=&quot;font-size: 13px&quot;&gt;提交店铺申请资料&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PrDnThKkt1VXkfsMURmL-22">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
