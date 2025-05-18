@@ -58,8 +58,8 @@
         </mxCell>
         <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-15" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="71.54" y="540" as="sourcePoint" />
-            <mxPoint x="285.75000000000006" y="540.2500000000002" as="targetPoint" />
+            <mxPoint x="71.54" y="560" as="sourcePoint" />
+            <mxPoint x="285.75000000000006" y="560.2500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-16" value="&lt;span style=&quot;font-size: 13px&quot;&gt;修改购物车商品数量/删除商品&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZhZ4NN9cGDv9-uR-6IXl-15">
@@ -73,7 +73,7 @@
             <mxPoint x="317.25" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-20" value="返回更新状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ZhZ4NN9cGDv9-uR-6IXl-19">
+        <mxCell id="ZhZ4NN9cGDv9-uR-6IXl-20" value="返回处理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ZhZ4NN9cGDv9-uR-6IXl-19">
           <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
             <mxPoint x="-7" as="offset" />
           </mxGeometry>
