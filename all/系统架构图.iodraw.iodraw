@@ -19,8 +19,8 @@
         <mxCell id="SR630DbwWwy7cONbpMix-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="116" width="514" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SR630DbwWwy7cONbpMix-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="227" width="120" height="47" as="geometry" />
+        <mxCell id="SR630DbwWwy7cONbpMix-6" value="用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="122.5" width="120" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
