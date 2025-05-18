@@ -103,7 +103,7 @@
             <mxPoint x="630" y="542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_97GkPCuqvEu6c6-lGJ0-25" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;审核内容安全性&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_97GkPCuqvEu6c6-lGJ0-24">
+        <mxCell id="_97GkPCuqvEu6c6-lGJ0-25" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;请求AI处理&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_97GkPCuqvEu6c6-lGJ0-24">
           <mxGeometry x="-0.2296" y="-2" relative="1" as="geometry">
             <mxPoint x="13" y="-2" as="offset" />
           </mxGeometry>
@@ -165,6 +165,9 @@
           <mxGeometry x="-0.1676" y="1" relative="1" as="geometry">
             <mxPoint x="-35" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_97GkPCuqvEu6c6-lGJ0-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="818.25" y="569" width="31.5" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
