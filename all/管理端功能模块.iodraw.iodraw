@@ -60,15 +60,15 @@
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-35" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="469" y="700" as="sourcePoint" />
-            <mxPoint x="469" y="620" as="targetPoint" />
+            <mxPoint x="520" y="700" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="700" width="70" height="210" as="geometry" />
+          <mxGeometry x="490" y="700" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;评价列表查看&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="461.5" y="720" width="25" height="170" as="geometry" />
+          <mxGeometry x="512.5" y="720" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KjCFYvm0RFGssR2icvi7-38" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
