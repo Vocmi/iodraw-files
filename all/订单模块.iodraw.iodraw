@@ -84,8 +84,13 @@
         <mxCell id="ET3lXFpCePKVtYDSXv14-26" value="&lt;span style=&quot;font-size: 16px&quot;&gt;后端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="330" width="150" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="ET3lXFpCePKVtYDSXv14-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ET3lXFpCePKVtYDSXv14-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634.689655172414" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619.25" y="660" width="31.5" height="81" as="geometry" />
+          <mxGeometry x="619.25" y="650" width="31.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,10 +109,10 @@
             <mxPoint x="460" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET3lXFpCePKVtYDSXv14-35" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ET3lXFpCePKVtYDSXv14-27">
+        <mxCell id="ET3lXFpCePKVtYDSXv14-35" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="317.4369999999999" y="660.277" as="sourcePoint" />
-            <mxPoint x="445.25" y="660" as="targetPoint" />
+            <mxPoint x="620" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ET3lXFpCePKVtYDSXv14-36" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;发起支付请求&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET3lXFpCePKVtYDSXv14-35">
