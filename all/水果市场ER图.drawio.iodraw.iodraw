@@ -974,8 +974,14 @@
         <mxCell id="sOkL11yq7ZPYeiolgKTY-388" value="门槛" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
           <mxGeometry x="-105.15999999999988" y="89.99999999999997" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-389" value="门槛" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
-          <mxGeometry x="-95.15999999999988" y="99.99999999999997" width="100" height="30" as="geometry" />
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-389" value="折扣" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
+          <mxGeometry x="-35.999999999999886" y="45.99999999999997" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-390" value="" style="endArrow=none;html=1;rounded=0;exitX=0.815;exitY=1.104;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOkL11yq7ZPYeiolgKTY-325" target="sOkL11yq7ZPYeiolgKTY-389">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-38" y="-16" as="sourcePoint" />
+            <mxPoint x="12" y="-66" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
