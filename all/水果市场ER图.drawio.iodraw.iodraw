@@ -683,10 +683,10 @@
           <mxGeometry x="-189.99662350913712" y="197.99662350913712" width="101.99662350913718" height="46.00337649086288" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-306" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
-          <mxGeometry x="-112" y="256" width="100" height="30" as="geometry" />
+          <mxGeometry x="-162" y="299.12" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-307" value="支付方式" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
-          <mxGeometry x="-9.993376490862893" y="240.00337649086288" width="100" height="45.99662350913712" as="geometry" />
+          <mxGeometry x="-62.00337649086289" y="291.1233764908629" width="100" height="45.99662350913712" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-308" value="支付记录" style="rounded=1;arcSize=13;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="3" parent="1">
           <mxGeometry x="-36.000000000000014" y="180" width="120" height="40" as="geometry" />
