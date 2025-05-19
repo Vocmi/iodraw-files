@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="ER-Diagram" name="曾续缘ER图">
-    <mxGraphModel dx="2289" dy="1607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="1365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -791,7 +791,7 @@
             <mxPoint x="82.96335999999974" y="-4.510000000000474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ociNXCTyIYh5EDIQPN_u-364" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="ociNXCTyIYh5EDIQPN_u-363" connectable="0" vertex="1">
+        <mxCell id="ociNXCTyIYh5EDIQPN_u-364" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="ociNXCTyIYh5EDIQPN_u-363" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-3.5" y="33.42" as="offset" />
           </mxGeometry>
@@ -802,7 +802,7 @@
             <mxPoint x="350" y="-179.1300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ociNXCTyIYh5EDIQPN_u-366" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="ociNXCTyIYh5EDIQPN_u-365" connectable="0" vertex="1">
+        <mxCell id="ociNXCTyIYh5EDIQPN_u-366" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="ociNXCTyIYh5EDIQPN_u-365" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-10" y="31.859999999999992" as="offset" />
           </mxGeometry>
