@@ -840,6 +840,13 @@
         <mxCell id="sOkL11yq7ZPYeiolgKTY-345" value="类型" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
           <mxGeometry x="-442.05" y="-150.68000000000004" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-346" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" edge="1" z="0" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+            <mxPoint x="-243" y="-284" as="sourcePoint" />
+            <mxPoint x="-346" y="-141.68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
