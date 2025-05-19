@@ -610,12 +610,15 @@
         <mxCell id="sOkL11yq7ZPYeiolgKTY-290" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;拥有&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="187.60999999999996" y="84.02000000000001" width="82.2" height="49.32" as="geometry" />
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-291" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" edge="1" z="0" parent="1">
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-291" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" z="0" parent="1" target="12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
             <mxPoint x="301.01" y="45" as="targetPoint" />
             <mxPoint x="255.0005624296964" y="96.11999999999989" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-292" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="159.60192213046298" y="108.46549877671032" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
