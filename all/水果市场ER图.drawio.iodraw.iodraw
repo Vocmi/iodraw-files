@@ -812,7 +812,7 @@
           <mxGeometry x="-442.0533764908629" y="-210.67662350913716" width="100" height="45.99662350913712" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-338" value="内容" style="rounded=1;arcSize=13;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="3" parent="1">
-          <mxGeometry x="-279.11" y="-251.68000000000004" width="120" height="40" as="geometry" />
+          <mxGeometry x="-279" y="-326" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-339" value="&lt;font style=&quot;font-size: 15px&quot;&gt;发布&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="-100.99999999999997" y="-326.00000000000006" width="71.67" height="43" as="geometry" />
@@ -825,7 +825,7 @@
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-341" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="sOkL11yq7ZPYeiolgKTY-340">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-14.27" y="-1.02" as="offset" />
+            <mxPoint x="-31" y="39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-342" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2">
