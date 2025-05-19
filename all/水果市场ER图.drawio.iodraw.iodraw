@@ -779,11 +779,6 @@
             <mxPoint x="-980.94" y="-218.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-330" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="sOkL11yq7ZPYeiolgKTY-329">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-20.81" y="-3.9800000000000004" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-331" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-989.9377057800805" y="-184.99331565684906" as="geometry" />
         </mxCell>
