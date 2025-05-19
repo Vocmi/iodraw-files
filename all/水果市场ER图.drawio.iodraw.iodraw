@@ -741,7 +741,7 @@
             <mxPoint x="24.57" y="25.6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ociNXCTyIYh5EDIQPN_u-354" value="&lt;font style=&quot;font-size: 15px&quot;&gt;查看&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
+        <mxCell id="ociNXCTyIYh5EDIQPN_u-354" value="&lt;font style=&quot;font-size: 15px&quot;&gt;拥有&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
           <mxGeometry x="194.62" y="-278" width="75.19" height="45.11" as="geometry" />
         </mxCell>
         <mxCell id="ociNXCTyIYh5EDIQPN_u-355" value="" style="endArrow=none;html=1;rounded=0;entryX=0.207;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2" target="ociNXCTyIYh5EDIQPN_u-354" edge="1">
