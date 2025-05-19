@@ -363,7 +363,7 @@
         <mxCell id="53" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="200.293376490863" y="280.00662350913706" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="54" value="商户id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
+        <mxCell id="54" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="326.38" y="279.98999999999984" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="214" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" parent="1" source="77" target="79" edge="1" z="0">
