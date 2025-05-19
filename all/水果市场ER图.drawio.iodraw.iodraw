@@ -361,7 +361,7 @@
           <mxGeometry x="49.04" y="-248.45" width="82.2" height="49.32" as="geometry" />
         </mxCell>
         <mxCell id="53" value="排序值" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
-          <mxGeometry x="200.293376490863" y="280.00662350913706" width="100" height="30" as="geometry" />
+          <mxGeometry x="350.00337649086305" y="286.99662350913707" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="54" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="457" y="262.99999999999983" width="100" height="30" as="geometry" />
@@ -605,11 +605,11 @@
         <mxCell id="sOkL11yq7ZPYeiolgKTY-265" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-107.99770578008042" y="-422.87331565684906" as="geometry" />
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-266" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;exitX=0.892;exitY=1.146;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" z="0" parent="1" source="47">
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-266" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;exitX=0.892;exitY=1.146;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" z="0" parent="1" source="47" target="54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
             <mxPoint x="350" y="211" as="sourcePoint" />
-            <mxPoint x="365" y="274" as="targetPoint" />
+            <mxPoint x="464" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
