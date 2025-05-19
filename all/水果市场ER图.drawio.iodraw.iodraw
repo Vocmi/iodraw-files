@@ -572,7 +572,7 @@
         <mxCell id="sOkL11yq7ZPYeiolgKTY-276" value="角色" style="rounded=1;arcSize=13;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="3" parent="1">
           <mxGeometry x="90" y="175.34" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-277" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;属于&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-277" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;拥有&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="119.77999999999997" y="-11.109999999999989" width="82.2" height="49.32" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-279" value="" style="endArrow=none;html=1;rounded=0;exitX=0.469;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sOkL11yq7ZPYeiolgKTY-277">
