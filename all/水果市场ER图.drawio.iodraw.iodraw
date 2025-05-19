@@ -507,7 +507,7 @@
         <mxCell id="79" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="539.9976581449591" y="-144.89" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="80" value="标题" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
+        <mxCell id="80" value="店铺ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="539.9976581449592" y="-283" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="81" value="简介" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
