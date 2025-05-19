@@ -294,10 +294,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="63" value="商品ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
-          <mxGeometry x="-234.8566235091372" y="-219.12337649086282" width="100" height="30" as="geometry" />
+          <mxGeometry x="-227.99662350913718" y="-283.0033764908628" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="65" value="用户id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
-          <mxGeometry x="-343.52" y="-219.12" width="100" height="30" as="geometry" />
+          <mxGeometry x="-226" y="-243" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66" value="数量" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="-550.0013473183748" y="-262.89358573942707" width="100" height="30" as="geometry" />
@@ -306,7 +306,7 @@
           <mxGeometry x="-244.80662350913718" y="-356.99662350913707" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
-          <mxGeometry x="-453.52358573942706" y="-219.1213473183747" width="100" height="30" as="geometry" />
+          <mxGeometry x="-548" y="-229" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="76" value="项ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="-524.996414260573" y="-305.3386526816252" width="100" height="30" as="geometry" />
