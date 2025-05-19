@@ -802,7 +802,7 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-335" value="权限ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-335" value="内容ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
           <mxGeometry x="-443.0566235091371" y="-312.00337649086293" width="101.99662350913718" height="46.00337649086288" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-336" value="角色ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
