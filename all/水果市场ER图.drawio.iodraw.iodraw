@@ -619,7 +619,7 @@
             <mxPoint x="499" y="304.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-269" value="排序值" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-269" value="分类层级" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" vertex="1" z="2" parent="1">
           <mxGeometry x="345.00337649086305" y="312.11662350913707" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-270" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" edge="1" z="0" parent="1">
