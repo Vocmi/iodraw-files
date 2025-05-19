@@ -234,14 +234,10 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="246" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" parent="1" source="112" target="116" edge="1" z="0">
+        <mxCell id="247" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" parent="1" source="112" edge="1" z="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="247" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" parent="1" source="112" target="117" edge="1" z="0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" y="-1" as="offset" />
+            <mxPoint x="-142.055899863665" y="-482.95091012191756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="248" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" parent="1" source="112" target="118" edge="1" z="0">
@@ -264,12 +260,6 @@
         </mxCell>
         <mxCell id="115" value="商品表名" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="-490.7678616534979" y="-510.1784471899925" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="116" value="用户id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
-          <mxGeometry x="-156.4678616534979" y="-554.3715528100075" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="117" value="商品id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
-          <mxGeometry x="-157.11892366988394" y="-508.6815528100076" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="118" value="描述" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="-274.63000000000005" y="-559.7" width="100" height="30" as="geometry" />
