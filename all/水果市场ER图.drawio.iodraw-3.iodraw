@@ -803,7 +803,7 @@
         <mxCell id="sOkL11yq7ZPYeiolgKTY-338" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;内容&lt;/font&gt;" style="rounded=1;arcSize=13;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="3">
           <mxGeometry x="-279" y="-326" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-339" value="&lt;font style=&quot;font-size: 15px&quot;&gt;发布&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-339" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;发布&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
           <mxGeometry x="-100.99999999999997" y="-326.00000000000006" width="71.67" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-340" value="" style="endArrow=none;html=1;rounded=0;entryX=0.005;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="sOkL11yq7ZPYeiolgKTY-338" target="sOkL11yq7ZPYeiolgKTY-339" edge="1">
@@ -826,7 +826,7 @@
         <mxCell id="sOkL11yq7ZPYeiolgKTY-344" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="-17.167705780080425" y="-318.99331565684906" as="geometry" />
         </mxCell>
-        <mxCell id="sOkL11yq7ZPYeiolgKTY-345" value="类型" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
+        <mxCell id="sOkL11yq7ZPYeiolgKTY-345" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="-442.05" y="-150.68000000000004" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sOkL11yq7ZPYeiolgKTY-346" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" parent="1" edge="1" z="0">
