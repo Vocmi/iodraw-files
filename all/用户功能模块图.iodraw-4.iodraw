@@ -343,7 +343,7 @@
         <mxCell id="0mq37DdRftNiFlX6dHEB-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="700" width="70" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="0mq37DdRftNiFlX6dHEB-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;短信登录或注册&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="0mq37DdRftNiFlX6dHEB-71" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;短信登录或注册&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1542.5" y="720" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0mq37DdRftNiFlX6dHEB-72" value="" style="endArrow=none;html=1;" parent="1" edge="1">
