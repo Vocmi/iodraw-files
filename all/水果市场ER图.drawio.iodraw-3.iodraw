@@ -346,7 +346,7 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79" value="LOGO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
+        <mxCell id="79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOGO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="539.9976581449591" y="-144.89" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;店铺ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
@@ -355,10 +355,10 @@
         <mxCell id="81" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="540" y="-238.79000000000002" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="82" value="状态" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
+        <mxCell id="82" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;状态&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="540.0123418550409" y="-99.99999999999991" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="83" value="店铺名称" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
+        <mxCell id="83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;店铺名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="2">
           <mxGeometry x="540.002341855041" y="-187.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;店铺&lt;/font&gt;" style="rounded=1;arcSize=13;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="3">
